@@ -22,9 +22,9 @@ function reducer(state, action) {
 
 const FAKE_USER = {
   name: "Anik",
-  email: "anik@example.com",
-  password: "qwerty",
-  avatar: "https://i.pravatar.cc/100?u=zz",
+  email: import.meta.env.VITE_EMAIL,
+  password: import.meta.env.VITE_PASS,
+  avatar: "/profile.png",
 };
 
 function AuthProvider({ children }) {

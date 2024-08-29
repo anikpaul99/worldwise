@@ -7,9 +7,8 @@ import PageNav from "../components/PageNav";
 import Button from "../components/Button";
 
 export default function Login() {
-  // PRE-FILL FOR DEV PURPOSES
-  const [email, setEmail] = useState("anik@example.com");
-  const [password, setPassword] = useState("qwerty");
+  const [email, setEmail] = useState();
+  const [password, setPassword] = useState();
 
   const { login, isAuthenticated } = useAuth();
   const navigate = useNavigate();
