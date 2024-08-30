@@ -13,15 +13,19 @@ export default function Product() {
         <div>
           <h2>About WorldWise.</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo est
-            dicta illum vero culpa cum quaerat architecto sapiente eius non
-            soluta, molestiae nihil laborum, placeat debitis, laboriosam at fuga
-            perspiciatis?
+            WorldWise is your ultimate travel companion, designed to help you
+            effortlessly document and relive your journeys. Whether you&apos;re
+            exploring a new city or revisiting a beloved destination, WorldWise
+            makes it easy to keep track of every place you&apos;ve been. With an
+            intuitive interface and powerful features, you can log your visits,
+            add personal notes, and explore your travels on an interactive map.
           </p>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis
-            doloribus libero sunt expedita ratione iusto, magni, id sapiente
-            sequi officiis et.
+            Built for travelers by travelers, WorldWise is more than just a trip
+            tracker—it&apos;s a way to keep your memories alive. Whether
+            you&apos;re planning your next adventure or reflecting on past
+            experiences, WorldWise provides the tools you need to stay connected
+            to the places that matter most to you.
           </p>
         </div>
       </section>
